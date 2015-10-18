@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTMT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert1">Chuyển đổi hệ số</string>
+</resources>
